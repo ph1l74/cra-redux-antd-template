@@ -3,19 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It was also combined with [React Redux](https://github.com/reduxjs/react-redux) and [Ant Design](https://github.com/ant-design/ant-design) for my convenience.
 
-    "@testing-library/jest-dom": "^5.16.1",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
-    "antd": "^4.18.5",
-    "dotenv": "^14.3.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-redux": "^7.2.6",
-    "react-scripts": "5.0.0",
-    "redux": "^4.1.2",
-    "redux-devtools-extension": "^2.13.9",
-    "redux-thunk": "^2.4.1",
-    "web-vitals": "^2.1.4"
 
 ## Packages inside: 
  - dotEnv
